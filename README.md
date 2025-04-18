@@ -7,10 +7,6 @@
 
 <a >Link para a descrição do Protótipo de baixa definição</a>
 
-<h1>Protótipo</h1>
-
-<a >Link para imagens do protótipo</a>
-
 <h1>Widgets utilizados</h1>
 
 <a >Link para os widgets  utilizados no protótipo</a>
